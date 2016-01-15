@@ -2,7 +2,7 @@
 
 ### Talk at An Afternoon with Hadley Wickham and Friends
 
-Slides available on [speakerdeck](https://speakerdeck.com/jennybc/ubc-stat545-2015-cm001-intro-to-course)
+Slides available on speakerdeck:
 
 <script async class="speakerdeck-embed"
 data-id="36f08b8e3b054847be7d072a1194e88a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script> <div style="margin-bottom:5px"> <strong> <a href="https://speakerdeck.com/jennybc/happy-git-and-github-for-the-user" title="Happy Git and GitHub for the useR" target="_blank">Happy Git and GitHub for the useR</a> </strong> from <strong><a href="https://speakerdeck.com/jennybc" target="_blank">Jennifer Bryan</a></strong> </div>
