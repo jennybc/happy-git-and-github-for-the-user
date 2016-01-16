@@ -4,8 +4,7 @@
 
 Slides available on speakerdeck:
 
-<script async class="speakerdeck-embed"
-data-id="36f08b8e3b054847be7d072a1194e88a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script> <div style="margin-bottom:5px"> <strong> <a href="https://speakerdeck.com/jennybc/happy-git-and-github-for-the-user" title="Happy Git and GitHub for the useR" target="_blank">Happy Git and GitHub for the useR</a> </strong> from <strong><a href="https://speakerdeck.com/jennybc" target="_blank">Jennifer Bryan</a></strong> </div>
+[Happy Git and GitHub for the useR](https://speakerdeck.com/jennybc/happy-git-and-github-for-the-user)
 
 ### Things I mentioned, used, or just like ...
 
@@ -56,7 +55,7 @@ xkcd comic on the "burn it all down" git workflow
 <https://xkcd.com/1597/>
 
 "burn it all down" workflow, explained
-<explainxkcd.com/wiki/index.php/1597:_Git>
+<http://explainxkcd.com/wiki/index.php/1597:_Git>
 
 Tweet likening basmati rice container (NOT!) to code comments
 <https://twitter.com/nzkoz/status/538892801941848064>
