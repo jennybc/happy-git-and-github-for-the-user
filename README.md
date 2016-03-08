@@ -1,6 +1,14 @@
-# 2016-01-15_austin-hadley-friends
+# Happy Git and GitHub for the useR
 
-### Talk at An Afternoon with Hadley Wickham and Friends
+Talk given at
+
+  * An Afternoon with Hadley Wickham and Friends
+    - 2016 Jan 15
+    - <http://www.meetup.com/Austin-R-User-Group/events/227283930/>
+  * Center for Statistics and the Social Sciences Seminar
+    - University of Washington, Seattle
+    - 2016 Mar 09
+    - <http://www.csss.washington.edu/seminars/530>
 
 Slides available on speakerdeck:
 
@@ -30,6 +38,16 @@ Commit Logs from Last Night
 Commit message displayed Star Wars style
 <http://starlogs.net>
 
+Blog posts from Arjun Raj about (over?) reproducibility  
+
+  * From reproducibility to over-reproducibility  
+    <http://rajlaboratory.blogspot.ca/2016/02/from-reproducibility-to-over.html>  
+  * From over-reproducibility to a reproducibility wish-list  
+    <http://rajlaboratory.blogspot.ca/2016/03/from-over-reproducibility-to.html>
+
+"Good Enough Practices in Scientific Computing": GitHub repo for a developing manuscript  
+<https://github.com/swcarpentry/good-enough-practices-in-scientific-computing>
+
 SourceTree
 <https://www.sourcetreeapp.com>
 
@@ -41,6 +59,9 @@ RStudio: Version Control with Git and SVN
 
 Gitup
 <http://gitup.co>
+
+GitKraken
+<http://www.gitkraken.com>
 
 GitHub Desktop
 <https://desktop.github.com>
@@ -71,3 +92,6 @@ Cat sneeze vine
 
 RStudio: R Markdown
 <http://rmarkdown.rstudio.com>
+
+`github_document` output format
+<http://rmarkdown.rstudio.com/github_document_format.html>
