@@ -14,6 +14,10 @@ Slides available on speakerdeck:
 
 [Happy Git and GitHub for the useR](https://speakerdeck.com/jennybc/happy-git-and-github-for-the-user)
 
+And also as a PDF here in this repo:
+
+[happy-git-and-github-for-the-user.pdf](https://github.com/jennybc/happy-git-and-github-for-the-user/blob/master/happy-git-and-github-for-the-user.pdf)
+
 ### Things I mentioned, used, or just like ...
 
 Git
